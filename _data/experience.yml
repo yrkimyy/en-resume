@@ -3,7 +3,7 @@
 - company: Codestates
   position: DevOps Bootcamp, EduTech Engineer(ESE)
   duration: Feb, 2021 &mdash; Present
-  summary: 1. Designed several content and hands-on for educational purposes as below <ul class="resume-item-list"><li>Deloyment for 3 tier architecture using EC2, S3, RDS</li><li>Built serverless architecture with Lambda Function and SAM</li><li>Performed a small project of deploying with Docker and ECS</li><li>Created a hands-on of an alarm with CloudTrail and EventBridge </li></ul> 2. Planned and launched a dashboard to monitor students' situations regarding their achievements <br /> 3. Built and Managed automation by integrating with tools(Github, Slack, and Notion) using Lambda Function. 
+  summary: 1. Designed several content and hands-on for educational purposes as below <ul class="resume-item-list"><li>Deployment for 3 tier architecture using EC2, S3, RDS</li><li>Built serverless architecture with Lambda Function and SAM</li><li>Performed a small project of deploying with Docker and ECS</li><li>Created an alarm with CloudTrail and EventBridge </li></ul> 2. Planned and launched a dashboard to monitor students' situations regarding their achievements <br /> 3. Built and Managed automation by integrating with tools(Github, Slack, and Notion) using Lambda Function. 
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
