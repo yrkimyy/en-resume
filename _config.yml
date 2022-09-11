@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>A proper solution is important. Cloud native development with DevOps can expand perspectives to solve problems. It is very impressive for me to find solutions in various ways. <br /><br /> To obtain positions of DevOps, I have experienced of working with AWS services and sharing them with others. <br /> It is my strong point to stick to getting knowledge about technologies. </p>"
+resume_header_intro: "<p>A proper solution is important. Cloud native development with DevOps can expand perspectives to solve problems. It is very impressive for me to find solutions in various ways. <br /><br /> To obtain positions of DevOps, I have experienced of working with AWS services, Docker, and Node.js and sharing them with others. <br /> It is my strong point to stick to getting knowledge about technologies. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
