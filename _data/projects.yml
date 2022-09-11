@@ -9,7 +9,7 @@
   description: Deploying a server built by Dockerfile with AWS ECS and ECR. <br /> The linked blog is about saving cost with VPC endpoints when connecting resources in a private subnet. 
 
 # # Springfield Community Outreach Group
-- project: Using SAM and Lambda Function to integrate tools for workforce efficiency.
+- project: Using SAM and Lambda Function to integrate tools
   role: 
   duration: 2022
   url: "https://yrkimyy.github.io/2022-09-01-using-lambda/"
