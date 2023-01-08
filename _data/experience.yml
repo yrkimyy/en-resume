@@ -6,7 +6,7 @@
   position: Team 4IR, DroneSquare Platform, DevOps Engineer
   duration:  Nov, 2022 &mdash; Present
   summary: |
-    1. Build CI/CD Pipeline for easy deployment with Github Actions. <br /> 
+    1. Built CI/CD Pipeline for easy deployment with Github Actions. <br /> 
     2. Designed an architecture with AWS services. 
     <ul class="resume-item-list">
     <li>Used S3 as a server for storing images and hosting a static web. </li>
@@ -15,11 +15,11 @@
     <li>Used Elastic Container Service(ECS) for data-processing tasks</li>
     <li>Configured RDS Aurora PostgreSQL in private subnets with Bastion Host(EC2)</li>
     <li>Migrated databases across the regions, accounts, and environments</li>
-    <li>Made alarms with using Eventbridge</li>
+    <li>Made an event-driven architecture with using Eventbridge</li>
     <li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li>
     </ul>
     3. Wrote the AWS Infrastructures with Terraform, CDK (IaC) <br /> 
-    4. For making Lambda functions with SAM <br /> 
+    4. Made Lambda functions with SAM <br /> 
     5. Made Automatical works With alerts, alarms and logs. <br /> 
     6. Wrote Dockerfiles for image-based deployment. <br /> 
     7. Able to write functions using SDK with Python and Javascript
