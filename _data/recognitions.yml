@@ -3,3 +3,8 @@
   organization: AWS 
   year: 2022
   summary: The focus of this certification is on the design of cost and performance optimized solutions, demonstrating a strong understanding of the AWS Well-Architected Framework
+
+- award: Terraform Associate (002)
+  organization: HashiCorp
+  year: 2023
+  summary: The his certification is for Cloud Engineers specializing in operations, IT, or development who know the basic concepts and skills associated with HashiCorp Terraform. 

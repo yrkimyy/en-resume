@@ -1,15 +1,16 @@
 # Jobs
 # VP of Global Communications
-- company: Codestates
-  position: DevOps Bootcamp, EduTech Engineer(ESE)
-  duration: Feb, 2021 &mdash; Present
-  summary: 1. Designed several content and hands-on for educational purposes as below <ul class="resume-item-list"><li>Deployment for 3 tier architecture using EC2, S3, RDS</li><li>Built serverless architecture with Lambda Function and SAM</li><li>Performed a small project of deploying with Docker and ECS</li><li>Created an alarm with CloudTrail and EventBridge </li></ul> 2. Planned and launched a dashboard to monitor students' situations regarding their achievements <br /> 3. Built and Managed automation by integrating with tools(Github, Slack, and Notion) using Lambda Function. 
 
 # # Director of Digital 
-# - company: United Nations Human Rights Council
-#   position: Director of Digital Strategy
-#   duration:  Jun, 2010 &mdash; Sept, 2013
-#   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Soosung Engineering
+  position: DroneSquare Platform, DevOps Engineer
+  duration:  Nov, 2022 &mdash; Present
+  summary: 
+
+- company: Codestates
+  position: DevOps Bootcamp, EduTech Engineer(ESE)
+  duration: Feb, 2021 &mdash; Nov, 2022
+  summary: 1. Designed several content and hands-on for educational purposes as below <ul class="resume-item-list"><li>Deployment for 3 tier architecture using EC2, S3, RDS</li><li>Built serverless architecture with Lambda Function and SAM</li><li>Performed a small project of deploying with Docker and ECS</li><li>Created an alarm with CloudTrail and EventBridge </li></ul> 2. Planned and launched a dashboard to monitor students' situations regarding their achievements <br /> 3. Built and Managed automation by integrating with tools(Github, Slack, and Notion) using Lambda Function. 
 
 
 # # Communications Coordinator
