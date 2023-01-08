@@ -10,7 +10,7 @@
     2. Designed an architecture with AWS services. 
     <ul class="resume-item-list">
     <li>Used S3 as a server for storing images and hosting static web. </li>
-    <li>Controlled restricted access with CloudFront OAI and OAC</li>
+    <li>Restricted access with CloudFront OAI and OAC</li>
     <li>Configured Lambda functions with image-based using ECR</li>
     <li>Used Elastic Container Service(ECS) for data-processing tasks</li>
     <li>Configured RDS aurora postgresql DB with Bastion Host(EC2)</li>
@@ -18,9 +18,9 @@
     <li>Made alarms with using Eventbridge</li>
     <li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li>
     </ul>
-    3. Wrote the AWS Infrastructure with Terraform (IaC)
-    4. Made Automatical works With alerts, alarms and logs.
-    5. Wrote Dockerfiles for image-based deployment. 
+    3. Wrote the AWS Infrastructure with Terraform (IaC) <br /> 
+    4. Made Automatical works With alerts, alarms and logs. <br /> 
+    5. Wrote Dockerfiles for image-based deployment. <br /> 
 
 - company: Codestates
   position: DevOps Bootcamp, EduTech Engineer(ESE)
