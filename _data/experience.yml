@@ -18,7 +18,7 @@
     <li>Made alarms with using Eventbridge</li>
     <li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li>
     </ul>
-    3. Wrote the AWS Infrastructure with Terraform (IaC) <br /> 
+    3. Wrote the AWS Infrastructures with Terraform (IaC) <br /> 
     4. Made Automatical works With alerts, alarms and logs. <br /> 
     5. Wrote Dockerfiles for image-based deployment. <br /> 
 
