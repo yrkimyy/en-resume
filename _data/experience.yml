@@ -5,7 +5,7 @@
 - company: Soosung Engineering
   position: DroneSquare Platform, DevOps Engineer
   duration:  Nov, 2022 &mdash; Present
-  summary: 1. Build CI/CD Pipeline for easy deployement with GitOps using Github Actions. <br /> 2. Designed an architecture with AWS services. <ul class="resume-item-list"><li>Used S3 as a server for storing images and hosting static web. </li><li>Controlled restricted access with CloudFront OAI and OAC</li><li>Configured Lambda functions with image-based using ECR</li><li>Used Elastic Container Service(ECS) for data-processing tasks</li><li>Configured RDS aurora postgresql DB with Bastion Host(EC2)</li><li>Migrated databases across the regions, accounts, and environments</li></ul>
+  summary: 1. Build CI/CD Pipeline for easy deployement with GitOps using Github Actions. <br /> 2. Designed an architecture with AWS services. <ul class="resume-item-list"><li>Used S3 as a server for storing images and hosting static web. </li><li>Controlled restricted access with CloudFront OAI and OAC</li><li>Configured Lambda functions with image-based using ECR</li><li>Used Elastic Container Service(ECS) for data-processing tasks</li><li>Configured RDS aurora postgresql DB with Bastion Host(EC2)</li><li>Migrated databases across the regions, accounts, and environments</li><li>Made alarms with using Eventbridge</li><li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li></ul>
 
 - company: Codestates
   position: DevOps Bootcamp, EduTech Engineer(ESE)
