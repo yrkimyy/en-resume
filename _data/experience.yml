@@ -3,29 +3,40 @@
 ---
 # # Director of Digital 
 - company: Soosung Engineering
-  position: DroneSquare Platform, DevOps Engineer
+  position: Team 4IR, DroneSquare Platform, DevOps Engineer
   duration:  Nov, 2022 &mdash; Present
   summary: |
-    1. Build CI/CD Pipeline for easy deployement with GitOps using Github Actions. <br /> 
+    1. Build CI/CD Pipeline for easy deployment with Github Actions. <br /> 
     2. Designed an architecture with AWS services. 
     <ul class="resume-item-list">
-    <li>Used S3 as a server for storing images and hosting static web. </li>
+    <li>Used S3 as a server for storing images and hosting a static web. </li>
     <li>Restricted access with CloudFront OAI and OAC</li>
     <li>Configured Lambda functions with image-based using ECR</li>
     <li>Used Elastic Container Service(ECS) for data-processing tasks</li>
-    <li>Configured RDS aurora postgresql DB with Bastion Host(EC2)</li>
+    <li>Configured RDS Aurora PostgreSQL in private subnets with Bastion Host(EC2)</li>
     <li>Migrated databases across the regions, accounts, and environments</li>
     <li>Made alarms with using Eventbridge</li>
     <li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li>
     </ul>
-    3. Wrote the AWS Infrastructures with Terraform (IaC) <br /> 
-    4. Made Automatical works With alerts, alarms and logs. <br /> 
-    5. Wrote Dockerfiles for image-based deployment. <br /> 
+    3. Wrote the AWS Infrastructures with Terraform, CDK (IaC) <br /> 
+    4. For making Lambda functions with SAM <br /> 
+    5. Made Automatical works With alerts, alarms and logs. <br /> 
+    6. Wrote Dockerfiles for image-based deployment. <br /> 
+    7. Able to write functions using SDK with Python and Javascript
 
 - company: Codestates
   position: DevOps Bootcamp, EduTech Engineer(ESE)
   duration: Feb, 2021 &mdash; Nov, 2022
-  summary: 1. Designed several content and hands-on for educational purposes as below <ul class="resume-item-list"><li>Deployment for 3 tier architecture using EC2, S3, RDS</li><li>Built serverless architecture with Lambda Function and SAM</li><li>Performed a small project of deploying with Docker and ECS</li><li>Created an alarm with CloudTrail and EventBridge </li></ul> 2. Planned and launched a dashboard to monitor students' situations regarding their achievements <br /> 3. Built and Managed automation by integrating with tools(Github, Slack, and Notion) using Lambda Function. 
+  summary: |
+    1. Designed several content and hands-on for educational purposes as below 
+    <ul class="resume-item-list">
+    <li>Deployment for 3 tier architecture using EC2, S3, RDS</li>
+    <li>Built serverless architecture with Lambda Function and SAM</li>
+    <li>Performed a small project of deploying with Docker and ECS</li>
+    <li>Created an alarm with CloudTrail and EventBridge </li>
+    </ul> 
+    2. Planned and launched a dashboard to monitor students' situations regarding their achievements <br /> 
+    3. Built and Managed automation by integrating with tools(Github, Slack, and Notion) using Lambda Function. 
 
 
 # # Communications Coordinator
