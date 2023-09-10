@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "True"
+resume_avatar:                  true
 resume_name:                    "Yeorae Kim"
 resume_title:                   "DevOps Engineer"
 
