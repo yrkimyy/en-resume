@@ -9,8 +9,8 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
-resume_name:                    "Yeo Rae Kim"
+resume_avatar:                  "True"
+resume_name:                    "Yeorae Kim"
 resume_title:                   "DevOps Engineer"
 
 # used for the contact button in _layouts/resume.html
