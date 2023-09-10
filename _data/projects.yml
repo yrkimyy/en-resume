@@ -2,14 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Deploying a server using AWS ECS and ECR
+- project: EKS JAM with AWS and LG CNS (Written in Korean)
+  role: 
+  duration: 2023
+  url: "https://histrangers.tistory.com/116"
+  description: |
+    Experienced Kubernetes with AWS EKS JAM workshop in 2023. There were Autoscaling, Observability, Networking, Automation sections and my team solved a few tasks on each section. 
+    
+- project: Deploying a server using AWS ECS and ECR (Written in Korean)
   role: 
   duration: 2022
   url: "https://yrkimyy.github.io/2022-08-28-demo-vpcendpoints/"
   description: Deploying a server built by Dockerfile with AWS ECS and ECR. The linked blog is about saving cost with VPC endpoints when connecting resources in a private subnet. 
 
 # # Springfield Community Outreach Group
-- project: Using SAM and Lambda Function to integrate tools
+- project: Using SAM and Lambda Function to integrate tools (Written in Korean)
   role: 
   duration: 2022
   url: "https://yrkimyy.github.io/2022-09-01-using-lambda/"

@@ -6,26 +6,27 @@
   position: Team 4IR, DroneSquare Platform, DevOps Engineer
   duration:  Nov, 2022 &mdash; Present
   summary: |
-    1. Built CI/CD Pipeline for easy deployment with Github Actions. <br /> 
+    1. Built CI/CD Pipeline to make Docker images with Github Actions and used AWS IAM and Github OIDC<br /> 
     2. Designed an architecture with AWS services. 
     <ul class="resume-item-list">
-    <li>Used S3 as a server for storing images and hosting a static web. </li>
+    <li>Configured VPC Network with Public Subnets and Private Subnets </li>
+    <li>Used S3 as a server for storing images and hosting a static web </li>
     <li>Restricted access with CloudFront OAI and OAC</li>
-    <li>Configured Lambda functions with image-based using ECR</li>
+    <li>Configured Lambda functions with image-based using ECR </li>
     <li>Used Elastic Container Service(ECS) for data-processing tasks</li>
-    <li>Configured RDS Aurora PostgreSQL in private subnets with Bastion Host(EC2)</li>
-    <li>Migrated databases across the regions, accounts, and environments</li>
-    <li>Made an event-driven architecture with using Eventbridge</li>
+    <li>Configured RDS Aurora Serverless PostgreSQL in private subnets with Bastion Host(EC2)</li>
+    <li>Migrated databases across the regions, accounts, and environments with snapshots </li>
+    <li>Set up Elastic File System for Data Storing in container services like lambda and ECS tasks </li>
     <li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li>
     </ul>
     3. Wrote the AWS Infrastructures with Terraform, CDK (IaC) <br /> 
     4. Made Lambda functions with SAM <br /> 
     5. Made Automatical works With alerts, alarms and logs. <br /> 
     6. Wrote Dockerfiles for image-based deployment. <br /> 
-    7. Able to write functions using SDK with Python and Javascript
+    7. Able to write automation scripts using AWS SDK with Bash, Python and Javascript
 
 - company: Codestates
-  position: DevOps Bootcamp, EduTech Engineer(ESE)
+  position: DevOps Course Bootcamp, EduTech Engineer and Instructor
   duration: Feb, 2021 &mdash; Nov, 2022
   summary: |
     1. Designed several content and hands-on for educational purposes as below 
