@@ -13,17 +13,20 @@
     <li>Used S3 as a server for storing images and hosting a static web </li>
     <li>Restricted access with CloudFront OAI and OAC</li>
     <li>Configured Lambda functions with image-based using ECR </li>
+    <li>Configured API Gateway to integrate with S3, Lambda, and other services</li>
     <li>Used Elastic Container Service(ECS) for data-processing tasks</li>
     <li>Configured RDS Aurora Serverless PostgreSQL in private subnets with Bastion Host(EC2)</li>
     <li>Migrated databases across the regions, accounts, and environments with snapshots </li>
-    <li>Set up Elastic File System for Data Storing in container services like lambda and ECS tasks </li>
+    <li>Configured User Management with AWS Cognito </li>
+    <li>Set Elastic File System for Data Storing in container services like lambda and ECS tasks </li>
     <li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li>
     </ul>
     3. Wrote the AWS Infrastructures with Terraform, CDK (IaC) <br /> 
-    4. Made Lambda functions with SAM <br /> 
+    4. Made Lambda functions for automation with SAM <br /> 
     5. Made Automatical works With alerts, alarms and logs. <br /> 
     6. Wrote Dockerfiles for image-based deployment. <br /> 
-    7. Able to write automation scripts using AWS SDK with Bash, Python and Javascript
+    7. Able to write scripts using AWS SDK with Bash, Python and Javascript
+    8. Experienced EKS(Elastic Kubernetes Service), EMR, Amazon Kinesis Data Stream, Glue, etc <br />  
 
 - company: Codestates
   position: DevOps Course Bootcamp, EduTech Engineer and Instructor
