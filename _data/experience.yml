@@ -3,7 +3,7 @@
 ---
 # # Director of Digital 
 - company: Soosung Engineering
-  position: Team 4IR, DroneSquare Platform, DevOps Engineer
+  position: Platform Developmen Team, DroneSquare Platform, DevOps Engineer
   duration:  Nov, 2022 &mdash; Present
   summary: |
     1. Built CI/CD Pipeline to make Docker images with Github Actions and used AWS IAM and Github OIDC<br /> 
