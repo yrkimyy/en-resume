@@ -12,7 +12,7 @@
     <li>Configured VPC Network with Public Subnets and Private Subnets </li>
     <li>Used S3 as a server for storing images and hosting a static web </li>
     <li>Restricted access with CloudFront OAI and OAC</li>
-    <li>Configured Lambda functions with image-based using ECR </li>
+    <li>Configured container-based Lambda functions with using ECR </li>
     <li>Configured API Gateway to integrate with S3, Lambda, and other services</li>
     <li>Used Elastic Container Service(ECS) for data-processing tasks</li>
     <li>Configured RDS Aurora Serverless PostgreSQL in private subnets with Bastion Host(EC2)</li>
