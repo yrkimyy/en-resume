@@ -18,12 +18,12 @@
     <li>Configured RDS Aurora Serverless PostgreSQL in private subnets with Bastion Host(EC2)</li>
     <li>Migrated databases across the regions, accounts, and environments with snapshots </li>
     <li>Configured User Management with AWS Cognito </li>
-    <li>Set Elastic File System for Data Storing in container services like lambda and ECS tasks </li>
+    <li>Mount EFS volumes on container services </li>
     <li>Based on Cloudwatch and Cloudtrail, made monitoring dashboards of performances and usage for ECS and RDS</li>
     </ul>
     3. Wrote the AWS Infrastructures with Terraform, CDK (IaC) <br /> 
     4. Made Lambda functions for automation with SAM <br /> 
-    5. Made Automatical works With alerts, alarms and logs. <br /> 
+    5. Made Automatical works with alerts, alarms and logs. <br /> 
     6. Wrote Dockerfiles for image-based deployment. <br /> 
     7. Able to write simple scripts using AWS SDK with Bash, Python and Javascript <br /> 
     8. Experienced EKS(Elastic Kubernetes Service), EMR, Amazon Kinesis Data Stream, Glue, etc <br />  
