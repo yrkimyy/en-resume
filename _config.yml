@@ -17,7 +17,7 @@ resume_title:                   "DevOps Engineer"
 resume_contact_email:           "kellyyeoraekim@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+82 1076452966"
+resume_contact_telephone:       "+353 0833081340"
 resume_contact_address:         ""
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
@@ -25,9 +25,9 @@ display_header_contact_info:    "false"
 
 resume_header_intro: |
   <br />
-  Results-driven DevOps Engineer with 2 years of experience. <br /> 
+  Results-driven DevOps Engineer with 4 years of experience. <br /> 
   Interested in seeking proper solutions and getting various perspectives on cloud-native development and DevOps. <br /><br /> 
-  Skilled at working with AWS services, cloud-native development, and Terraform. <br />
+  Skilled at working with AWS services, cloud-native development, Kubernetes, and EKS. <br />
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
