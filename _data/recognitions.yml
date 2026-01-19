@@ -1,4 +1,19 @@
 # Recognitions
+- award: EKS (Container Service for Kubernetes) Subject Matter Expert
+  organization: AWS 
+  year: 2025
+  summary: The earner has gained deep technical expertise in the mentioned AWS service. The earner has a proven track record of improving customer experience by demonstrating the must-know technical depth of the service architecture. They are aware of the big picture understanding of the service competencies, known issues and workarounds. They exhibit the critical knowledge required to resolve complex cases, and apply their service knowledge to find technical solutions.
+
+- award: AWS Certified DevOps Engineer – Professional
+  organization: AWS 
+  year: 2025
+  summary: Earners of this certification have an extensive understanding of implementing continuous delivery systems and methodologies on the AWS Cloud. They demonstrated the ability to automate resilient applications and infrastructure deployments using AWS services. 
+  
+- award: CKAD: Certified Kubernetes Application Developer
+  organization: AWS 
+  year: 2025
+  summary: Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Application Developer. Earners are able to define application resources and use core primitives to build, monitor, and troubleshoot scalable applications and tools in Kubernetes. The skills and knowledge demonstrated by earners include Core Concepts, Configuration, Multi-Container Pods, Observability, Pod Design, Services & Networking, State Persistence.
+
 - award: AWS Certified Solutions Architect - Associate
   organization: AWS 
   year: 2022
