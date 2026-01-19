@@ -2,23 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: EKS JAM with AWS and LG CNS (Written in Korean)
+- project: Introducing Aws GatewayApi Controller For Amazon Vpc Lattice, An Implementation Of Kubernetes GatewayApi
   role: 
-  duration: 2023
-  url: "https://histrangers.tistory.com/116"
+  duration: 2025
+  url: "https://aws.amazon.com/ko/blogs/tech/introducing-aws-gateway-api-controller-for-amazon-vpc-lattice-an-implementation-of-kubernetes-gateway-api/"
   description: |
     Experienced Kubernetes with AWS EKS JAM workshop in 2023. There were Autoscaling, Observability, Networking, Automation sections and my team solved a few tasks on each section. 
     
-- project: Deploying a server using AWS ECS and ECR (Written in Korean)
-  role: 
-  duration: 2022
-  url: "https://yrkimyy.github.io/2022-08-28-demo-vpcendpoints/"
-  description: Deploying a server built by Dockerfile with AWS ECS and ECR. The linked blog is about saving cost with VPC endpoints when connecting resources in a private subnet. 
-
-# # Springfield Community Outreach Group
-- project: Using SAM and Lambda Function to integrate tools (Written in Korean)
-  role: 
-  duration: 2022
-  url: "https://yrkimyy.github.io/2022-09-01-using-lambda/"
-  description: Creating a Slackbot pushing messages triggered by Github event using SAM and Lambda Function.
-
