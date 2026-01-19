@@ -6,6 +6,4 @@
   role: 
   duration: 2025
   url: "https://aws.amazon.com/ko/blogs/tech/introducing-aws-gateway-api-controller-for-amazon-vpc-lattice-an-implementation-of-kubernetes-gateway-api/"
-  description: |
-    Experienced Kubernetes with AWS EKS JAM workshop in 2023. There were Autoscaling, Observability, Networking, Automation sections and my team solved a few tasks on each section. 
     
